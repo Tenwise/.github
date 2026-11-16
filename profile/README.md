@@ -22,6 +22,11 @@ Tenwise is a feed reader with a research desk built in. Follow your sources, sav
 
 ## Or use it hosted: tenwise.app
 
-[tenwise.app](https://tenwise.app) is the app built on the engine, by the same team. Sign in with your email, with nothing to install, and your library is there in any browser.
+[tenwise.app](https://tenwise.app) is the app built on the engine, by the same team, live since 16 November 2026. Sign up with your email and get a 14-day trial of Plus with no card, then choose [Reader or Plus](https://tenwise.app/pricing/), or keep reading on Free:
 
-[User guide](https://tenwise.app/docs/) · [ask@tenwise.app](mailto:ask@tenwise.app)
+- Feeds, blogs, Google News searches, and newsletters sent to an address of your own
+- Briefs from your collections, with each cited claim checked against its source, shared as a web page
+- Tenwise AI included in Plus, or bring your own key
+- Download your whole library any time
+
+[User guide](https://tenwise.app/docs/) · [Pricing](https://tenwise.app/pricing/) · [ask@tenwise.app](mailto:ask@tenwise.app)
